@@ -7,7 +7,6 @@ const CourseNav = ({ icon: Icon, title, color }) => {
     blue: "blue-600",
     green: "green-600",
     yellow: "yellow-600",
-    // tambahkan warna lain jika diperlukan
   };
 
   return (

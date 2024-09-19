@@ -15,6 +15,9 @@ export default {
         ownWhite: "#FAFAFA",
         background: "#E6F5E8",
       },
+      backgroundImage: {
+        pattern: "url(./assets/pattern.svg)",
+      },
     },
   },
   plugins: [],

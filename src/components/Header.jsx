@@ -19,7 +19,7 @@ const Header = () => {
       after:content-[''] after:scale-x-0 after:h-[3px] after:inline-block after:absolute after:bottom-0 after:bg-secondary after:transition-all after:duration-[400ms]
       hover:after:scale-x-100 after:inset-x-0 hover:transition-all hover:duration-[400ms]"
               >
-                About
+                Kursus
               </a>
             </li>
             <li>
@@ -29,17 +29,7 @@ const Header = () => {
       after:content-[''] after:scale-x-0 after:h-[3px] after:inline-block after:absolute after:bottom-0 after:bg-secondary after:transition-all after:duration-[400ms]
       hover:after:scale-x-100 after:inset-x-0 hover:transition-all hover:duration-[400ms]"
               >
-                Works
-              </a>
-            </li>
-            <li>
-              <a
-                href="#"
-                className="relative py-2
-      after:content-[''] after:scale-x-0 after:h-[3px] after:inline-block after:absolute after:bottom-0 after:bg-secondary after:transition-all after:duration-[400ms]
-      hover:after:scale-x-100 after:inset-x-0 hover:transition-all hover:duration-[400ms]"
-              >
-                Contact
+                Artikel
               </a>
             </li>
           </ul>
